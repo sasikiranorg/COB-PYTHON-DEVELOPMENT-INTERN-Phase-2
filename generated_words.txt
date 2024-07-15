@@ -1,0 +1,4 @@
+1. Python's standard library is extensive and includes modules for various tasks like working with files, network communication, and database management. 
+2. The language is cross-platform and runs on many different operating systems.
+3. Python's simplicity and versatility have made it a popular choice for both educational purposes and professional projects.
+4. These are the generated words in the sample.txt and word_counter.py 
