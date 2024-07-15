@@ -2,3 +2,5 @@ Python is a high-level, versatile programming language known for its simplicity 
 One of Python's key features is its use of indentation to define code blocks, which promotes clean and consistent coding practices. Python has a large and active community, which contributes to a vast ecosystem of libraries and frameworks, making it suitable for a wide range of applications, including web development, data analysis, scientific computing, artificial intelligence, and more.
 Python uses a dynamic typing system, which means that you don't need to declare the data type of a variable explicitly. This flexibility allows for rapid development and easy prototyping. It also supports multiple programming paradigms, such as procedural, object-oriented, and functional programming.
 Python's standard library is extensive and includes modules for various tasks like working with files, network communication, and database management. The language is cross-platform and runs on many different operating systems. Python's simplicity and versatility have made it a popular choice for both educational purposes and professional projects.
+
+This is a sample python words counter file.
